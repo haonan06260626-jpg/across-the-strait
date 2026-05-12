@@ -1,0 +1,129 @@
+
+> across-the-strait@1.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 1187ms
+ ✓ Compiled /middleware in 115ms (116 modules)
+ ○ Compiling /[locale] ...
+ ✓ Compiled /[locale] in 1302ms (1513 modules)
+ GET /en 200 in 1890ms
+ GET /zh-CN 200 in 92ms
+ ✓ Compiled /[locale]/overview in 292ms (1521 modules)
+ GET /en/overview 200 in 777ms
+ GET /zh-CN/overview 200 in 97ms
+ ✓ Compiled /[locale]/timeline in 254ms (1517 modules)
+ GET /en/timeline 200 in 676ms
+ GET /zh-CN/timeline 200 in 101ms
+ ✓ Compiled /[locale]/positions in 220ms (1529 modules)
+ GET /en/positions 200 in 634ms
+ GET /zh-CN/positions 200 in 86ms
+ ✓ Compiled /[locale]/us-policy in 267ms (1541 modules)
+ GET /en/us-policy 200 in 689ms
+ GET /zh-CN/us-policy 200 in 95ms
+ ✓ Compiled /[locale]/security in 166ms (1561 modules)
+ GET /en/security 200 in 574ms
+ GET /zh-CN/security 200 in 95ms
+ ○ Compiling /[locale]/economics ...
+ ✓ Compiled /[locale]/economics in 518ms (2707 modules)
+ GET /en/economics 200 in 1004ms
+ GET /zh-CN/economics 200 in 90ms
+ ✓ Compiled /[locale]/documents in 237ms (2719 modules)
+ GET /en/documents 200 in 755ms
+ GET /zh-CN/documents 200 in 193ms
+ ✓ Compiled /[locale]/bibliography in 230ms (2733 modules)
+ GET /en/bibliography 200 in 764ms
+ GET /zh-CN/bibliography 200 in 206ms
+ ✓ Compiled /[locale]/methodology in 231ms (2741 modules)
+ GET /en/methodology 200 in 663ms
+ GET /zh-CN/methodology 200 in 103ms
+ GET /en 200 in 95ms
+ GET /zh-CN 200 in 24ms
+ GET /zh-CN/timeline 200 in 28ms
+ GET /en/timeline 200 in 25ms
+ GET /zh-CN/timeline 200 in 20ms
+ GET /en/timeline 200 in 24ms
+ GET /zh-CN/timeline 200 in 21ms
+ GET /zh-CN 200 in 21ms
+ GET /en 200 in 20ms
+ GET /zh-CN 200 in 19ms
+ GET /zh-CN/timeline 200 in 19ms
+ GET /en/timeline 200 in 24ms
+ GET /zh-CN/timeline 200 in 20ms
+ GET /en/timeline 200 in 21ms
+ GET /zh-CN/timeline 200 in 22ms
+ GET /en/timeline 200 in 19ms
+ GET /zh-CN/timeline 200 in 19ms
+ GET /en/timeline 200 in 24ms
+ GET /en 200 in 20ms
+ ✓ Compiled in 541ms (2123 modules)
+ GET /en 200 in 65ms
+ ✓ Compiled in 261ms (2109 modules)
+ GET /en 200 in 77ms
+ ✓ Compiled in 271ms (2123 modules)
+ GET /en 200 in 38ms
+ ✓ Compiled in 273ms (2123 modules)
+ GET /en 200 in 41ms
+ ✓ Compiled in 381ms (2123 modules)
+ GET /en 200 in 48ms
+ ✓ Compiled in 234ms (2123 modules)
+ GET /en 200 in 66ms
+ ✓ Compiled in 238ms (2123 modules)
+ GET /en 200 in 49ms
+ ✓ Compiled in 310ms (2123 modules)
+ GET /en 200 in 42ms
+ ✓ Compiled in 413ms (2123 modules)
+ GET /en 200 in 44ms
+ ✓ Compiled in 286ms (2123 modules)
+ GET /en 200 in 41ms
+ ✓ Compiled in 337ms (2123 modules)
+ GET /en 200 in 85ms
+ ✓ Compiled in 243ms (2123 modules)
+ GET /en 200 in 50ms
+ ✓ Compiled in 298ms (2123 modules)
+ GET /en 200 in 38ms
+ ✓ Compiled in 230ms (2123 modules)
+ GET /en 200 in 54ms
+ ✓ Compiled in 159ms (1292 modules)
+ GET /en 200 in 26ms
+ ✓ Compiled in 277ms (2109 modules)
+ GET /en 200 in 43ms
+ ✓ Compiled in 209ms (2123 modules)
+ GET /en 200 in 39ms
+ ✓ Compiled in 332ms (1300 modules)
+ GET /en 200 in 23ms
+ ✓ Compiled in 250ms (1300 modules)
+ GET /en 200 in 23ms
+ ✓ Compiled in 189ms (2117 modules)
+ GET /en 200 in 39ms
+ ✓ Compiled in 158ms (1300 modules)
+ GET /en 200 in 25ms
+ ✓ Compiled in 119ms (1300 modules)
+ ✓ Compiled in 134ms (1300 modules)
+ GET /en 200 in 131ms
+ GET /en 200 in 25ms
+ ✓ Compiled in 207ms (2132 modules)
+ GET /en 200 in 42ms
+ ✓ Compiled in 112ms (1300 modules)
+ GET /en 200 in 28ms
+ ✓ Compiled in 222ms (2132 modules)
+ GET /en 200 in 77ms
+ ✓ Compiled in 113ms (1300 modules)
+ GET /en 200 in 22ms
+ ✓ Compiled in 116ms (1300 modules)
+ GET /en 200 in 24ms
+ ✓ Compiled in 119ms (1300 modules)
+ GET /en 200 in 22ms
+ ✓ Compiled in 115ms (1300 modules)
+ GET /en 200 in 27ms
+ ✓ Compiled in 110ms (1300 modules)
+ GET /en 200 in 23ms
+ ✓ Compiled in 146ms (1300 modules)
+ GET /en 200 in 87ms
+ ✓ Compiled in 112ms (1300 modules)
+ GET /en 200 in 28ms
+[?25h
